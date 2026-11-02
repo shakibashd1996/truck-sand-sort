@@ -1,0 +1,36 @@
+# Unity local state, generated output and captures
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/UserSettings/
+/MemoryCaptures/
+/Recordings/
+/Captures/
+/[Ee]xported[Oo]bj/
+/[Ss]ys[Ii]nfo.txt
+
+# IDE and debugger files
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.pdb
+*.userprefs
+*.pidb
+*.opendb
+*.VC.db
+
+# Platform files and local credentials
+.DS_Store
+Thumbs.db
+.env
+*.keystore
+*.jks
+*.pfx
+*.p12
